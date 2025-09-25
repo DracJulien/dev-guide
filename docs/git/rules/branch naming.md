@@ -1,4 +1,3 @@
-# Branch Naming
 
 ## Branch Types
 
@@ -16,5 +15,3 @@
 
 **Format:**  
 `<type>/<ticket>-<slug>` → e.g., `feat/SOF-231-onboarding-overlay`
-
-
